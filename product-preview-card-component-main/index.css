@@ -1,0 +1,41 @@
+.logo_text{
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 5px;
+  color: #6C7289;
+}
+
+.name_product_heading{
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 32px;
+  color: #1C232B;
+}
+
+.description_product_text{
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 23px;
+  color: #6C7289;
+}
+
+.new_price{
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 32px;
+  color: #3D8168;
+}
+
+.old_price{
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 23px;
+  color: #6C7289;
+  text-decoration-line: line-through;
+}
+
+.button_text{
+  font-size: 14px;
+  font-weight: 700;
+  color: #fff;
+}
